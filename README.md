@@ -1,8 +1,8 @@
-###🔐 React Password Generator
+### 🔐 React Password Generator
 
 A simple and interactive password generator built using React that helps users create strong and secure passwords based on their preferences.
 
-##🚀 Features
+## 🚀 Features
 
 Generate passwords with custom length
 
@@ -22,7 +22,7 @@ Instant toast notifications for errors and success
 
 Clean and responsive UI
 
-##🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 React JS
 
@@ -32,7 +32,7 @@ CSS
 
 React Toastify
 
-##📦 Installation
+## 📦 Installation
 
 Clone the repository
 
@@ -53,21 +53,21 @@ Run the project
 
 npm start
 
-##📸 Preview
+## 📸 Preview
 
 After running the project, open your browser and go to:
 http://localhost:3000
 
-##🎯 Purpose
+## 🎯 Purpose
 
 This project was created for practice to strengthen React fundamentals such as state handling, conditional rendering, form control, and working with external libraries.
 
-##🤝 Contributing
+## 🤝 Contributing
 
 Contributions are welcome! Feel free to fork the repository and improve the project.
 
-##📄 License
+## 📄 License
 
 This project is open-source and free to use for learning purposes.
 
-###⭐ Don’t forget to star this repo if you like it!
+### ⭐ Don’t forget to star this repo if you like it!
